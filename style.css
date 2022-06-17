@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:ghostwhite;
+}
+
+main{
+    width: 50%;
+    margin: auto;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:100vh;
+
+}
+
+div{padding: 3em;
+    height: 70vh;
+    
+    
+}
+
+img{
+    margin-bottom: 20%;
+}
+
+.cartype{ margin-bottom: 40%;
+    /* padding-bottom: 0.6em; */
+    color:white;
+    font-weight: bolder;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+button{
+    margin-top: 40%;
+    padding: 10px;
+    border-radius: 40px;
+}
+
+
+.sedans{
+    background-color:rgb(216, 126, 16);
+    color:ivory;
+    }
+
+.suvs{
+    background-color:darkcyan;
+    color:ivory;
+}
+
+.luxury{
+    background-color:darkslategray;
+    color:ivory;
+}  
